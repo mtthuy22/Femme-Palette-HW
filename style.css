@@ -1,0 +1,23 @@
+html {
+    box-sizing: border-box;
+  }
+  
+  *,
+  *:before,
+  *:after {
+    box-sizing: inherit;
+  }
+  
+  .name-container {
+    margin-right: 10px;
+  }
+
+  .btn {
+    background-color: rgb(70, 0, 128);
+    border: none;
+  }
+
+  .form-label{
+    margin: 0;
+    margin-top: 5px;
+  }
